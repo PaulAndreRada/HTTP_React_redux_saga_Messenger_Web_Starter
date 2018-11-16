@@ -1,3 +1,4 @@
-HTTP: MA prototype for Patient Facing
+HTTP react redux saga messenger starter
+(expects long polling)
 
 * npm start
